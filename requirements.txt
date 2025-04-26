@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+opencv-python
+numpy
+tensorflow
+face_recognition
+dlib
+scipy
+pytesseract
